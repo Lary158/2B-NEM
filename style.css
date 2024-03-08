@@ -1,6 +1,9 @@
-header {
+.cabeçalho{
     background-color: #dbbbffcb;
     color: rgb(1, 25, 128);
     display:flex;
     justify-content: space-around;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
 }
