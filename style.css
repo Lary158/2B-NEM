@@ -1,5 +1,5 @@
 .cabeçalho{
-    background-color: #dbbbffcb;
+    background-color: #460096cb;
     color: rgb(1, 25, 128);
     display:flex;
     justify-content: space-around;
@@ -9,6 +9,5 @@
     margin: 0 16px;
 }
 .ensino medio {
-    background-color: blueviolet;
-}
+    background-image:linear-gradient(#460096cb,#c191f8cb)}
 
