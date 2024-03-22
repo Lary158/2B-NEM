@@ -16,6 +16,7 @@
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .ensino-div-conteudo{
     width: 35%;
