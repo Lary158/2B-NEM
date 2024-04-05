@@ -1,17 +1,19 @@
+
 .cabeçalho{
     background-color: #460096cb;
     color: rgb(129, 209, 255);
     display:flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
-}
-body{.castoro-regular {
+    padding: 24px 0;}
+    
+    body{.castoro-regular 
     font-family: "Castoro", serif;
     font-weight: 400;
     font-style: normal;
   }
-.cabeçalho-lista-item{
+
+  .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
