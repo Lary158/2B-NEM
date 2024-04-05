@@ -20,7 +20,7 @@
 }
 .ensino {
     background-image: linear-gradient(#460096cb,#dec0ffcb);
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
