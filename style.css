@@ -44,3 +44,7 @@
 .conteúdos-todos{
     display: grid;
     grid-template-columns:  20% 20% 20% 20% 20%;}
+
+    .conteúdos-todos{
+        display: grid;
+        grid-template-columns:  20% 20% 20% 20% 20%;}
