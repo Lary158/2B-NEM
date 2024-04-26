@@ -7,10 +7,10 @@
     align-items: center;
     padding: 24px 0;}
     
-    body{.castoro-regular 
-    font-weight: 400;
+    body{
     font-style: normal;
-    font-family: "Castoro", serif;}
+    font-family: "Castoro", serif;
+    font-weight: 400;}
 
   .cabeçalho-lista-item{
     display: inline-block;
