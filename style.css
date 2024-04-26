@@ -50,7 +50,7 @@
     display: grid;
     grid-template-columns:  20% 20% 20% 20% 20%;}
 
-.todos-conteúdos{
-    display: grid;
-    grid-template-columns:  20% 20% 20% 20% 20%;}
-    
+    .cores{
+
+        background-image: linear-gradient(#ffffff,#575757);  
+    }
