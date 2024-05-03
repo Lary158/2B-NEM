@@ -11,7 +11,7 @@
     font-style: normal;
     font-family: "Castoro", serif;
     font-weight: 400;
-    background-image: linear-gradient(#b04fff7c,#000000);
+    background-image: linear-gradient(#cc8eff,#000000);
 }
 
   .cabeçalho-lista-item{
@@ -21,7 +21,7 @@
 
 .ensino {
     color: rgb(0, 0, 0);
-    background-color: #daa2ffd0;
+    background-color: #7500c4d0;
     display: flex;
     justify-content: center;
     align-items: center;
