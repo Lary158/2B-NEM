@@ -37,7 +37,7 @@
     padding: 24px 24px;}
 
 .conteúdos{
-    background-image: linear-gradient(#cfa1f5,#ffffff);
+    background-color: linear-gradient(#cfa1f5,#ffffff);
 }
 .conteúdos-imagem{
     width: 200px;}
