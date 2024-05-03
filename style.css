@@ -21,6 +21,7 @@
 
 .ensino {
     color: rgb(0, 0, 0);
+    background-image: linear-gradient(#04ce41b4,#aaaaaa);
     display: flex;
     justify-content: center;
     align-items: center;
