@@ -37,9 +37,6 @@
 .ensino-título{
     padding: 24px 24px;}
 
-.conteúdos{
-    background-image: linear-gradient(#cfa1f5,#ffffff);
-}
 .conteúdos-imagem{
     width: 200px;}
 
@@ -51,7 +48,3 @@
     display: grid;
     grid-template-columns:  20% 20% 20% 20% 20%;}
 
-    .cores{
-
-        background-image: linear-gradient(#ffffff,#575757);  
-    }
