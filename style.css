@@ -47,7 +47,9 @@
         
     }
 .conteúdos-imagem{
-    width: 200px;}
+    width: 200px;
+    padding: 24px 0;
+}
 
 .conteúdos-div{
     text-align: center;
